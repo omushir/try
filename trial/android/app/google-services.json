@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "305180371109",
+    "project_id": "baliraja-11a9d",
+    "storage_bucket": "baliraja-11a9d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305180371109:android:bf0f89e78fa484e239854c",
+        "android_client_info": {
+          "package_name": "com.example.bali_raja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305180371109-2oc10qlvbci1ih2ctavaj6tqd289hc55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh4Ont0i7NMxaA8Ntoddktfqp6fenxbZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305180371109-2oc10qlvbci1ih2ctavaj6tqd289hc55.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "305180371109-j0cq59u7qaveouc5o9k6sn3nhq644ad5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.trial"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
